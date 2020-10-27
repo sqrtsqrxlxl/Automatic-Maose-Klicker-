@@ -48,3 +48,27 @@ Lockable mouse (Must Lock before use!)
 Flexible holding duration
 
 Random holding duration and clicking interval! (c++'s random)
+
+## 一些杂记
+
+如果发现虫欢迎放到issue里！
+
+如果有改进意见欢迎提出！
+
+如果会其他语言翻译欢迎翻译并加入pr！
+
+直接用MaoseKlicker.exe就可以啦
+
+如果有编译器可以自行编译（什
+
+***
+
+If you find a bug, put it in the issues!
+
+Any suggestions for improving is welcomed!
+
+Help us translate this program into other languages and put it in to the pull requests (If you can)!
+
+Simply use the MaoseKlicker.exe!
+
+If you have a compiler you can compile**C** it**I** yourself**Y** (wut
